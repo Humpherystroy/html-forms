@@ -1,0 +1,11 @@
+What kind of information can you capture using a form?
+You can get the persons email,age,name,where they live, gender,questions that the user has. 
+
+What types of tags can you use to create forms? 
+input,form,nav,button,label.
+
+What are the benefits/disadvantages of using some tags over others? 
+each tag has its own specific use and using it where it isnt needed it wouldnt work correctly.
+
+How do you start to use the data provided by the user programmatically? 
+use it to contact them and to help them with all the info they need.
